@@ -16,7 +16,7 @@ jobs:
 
       - name: update total channels
         run: |
-cd M3U
+          cd M3U
           TOTAL=$(grep -c '^#EXTINF:-1' iptv_streams.m3u)
           DATETIME=$(date '+%Y-%m-%d %H:%M:%S')
 
