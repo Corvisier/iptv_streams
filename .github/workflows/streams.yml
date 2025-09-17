@@ -16,11 +16,11 @@ jobs:
 
       - name: update total channels
         run: |
-          TOTAL=$(grep -c '^#EXTINF:-1' iptv_streams.m3u)
+          TOTAL=$(grep -c '^#EXTINF:-1' M3U/iptv_streams.m3u)
           DATETIME=$(date '+%Y-%m-%d %H:%M:%S')
 
-          sed -i "s/^# (●) Total de Canais:.*/# (●) Total de Canais: $TOTAL/" iptv_streams.m3u
-          sed -i "s/^# (●) Lista Actualizada a:.*/# (●) Lista Actualizada a: $DATETIME/" iptv_streams.m3u
+          sed -i "s/^# (●) Total de Canais:.*/# (●) Total de Canais: $TOTAL/" M3U/iptv_streams.m3u
+          sed -i "s/^# (●) Lista Actualizada a:.*/# (●) Lista Actualizada a: $DATETIME/" M3U/iptv_streams.m3u
 
       - name: setup git config
         run: |
