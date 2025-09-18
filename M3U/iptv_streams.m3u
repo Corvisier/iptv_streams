@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/Corvisier/IPTV/raw/refs/heads/main/EPG/epg-pt.xml.gz,https://github.com/Corvisier/IPTV/raw/main/EPG/epg-rtp-pt.xml.gz,https://github.com/Corvisier/IPTV/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/Corvisier/IPTV/raw/main/EPG/epg-mitv-br.xml.gz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTM3U url-tvg="https://github.com/Corvisier/iptv_streams/raw/refs/heads/main/EPG/epg-pt.xml.gz,https://github.com/Corvisier/iptv_streams/raw/main/EPG/epg-rtp-pt.xml.gz,https://github.com/Corvisier/iptv_streams/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/Corvisier/iptv_streams/raw/main/EPG/epg-mitv-br.xml.gz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
 
 # IPTV.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 #
@@ -16,121 +16,121 @@
 #
 # 📺 Canais de TV
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP2.png",RTP 2
+#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/SIC.png",SIC
+#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/SIC.png",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVI.png",TVI
+#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI1IDI6MTg6MCBQTSZoYXNoX3ZhbHVlPTRJeDRGMUhReW8vcnBKekluelZrdEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03M2YzNTU2YS01ZjhiLTQ3MzctYTcyMi0wZjNkYjQ1MTI4YTk=/
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP3.png",RTP 3
+#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/SIC-Notícias.png",SIC Notícias
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Portugal.png",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI1IDI6MTg6MCBQTSZoYXNoX3ZhbHVlPWZRZFUwUkNOS1ZmN3lSUTE5MEQ5OGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yZDQzMzhlZC1hY2VkLTQyNDAtOTY0My1lY2RlNzM5ZjBhYzA=/
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CNN-Portugal.png",CNN Portugal
-#https://github.com/Corvisier/IPTV/raw/refs/heads/main/M3U/CNN_Portugal.m3u
+#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Portugal.png",CNN Portugal
+#https://github.com/Corvisier/iptv_streams/raw/refs/heads/main/M3U/CNN_Portugal.m3u
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CNN-Brasil.png",CNN Brasil
+#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews PT
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews PT
 #https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiYTczODFmMGMtYjk4Ni00ODc1LWIzMDYtN2E3MTdlZDgxZTQxIiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ%3D%3D/26035/euronews-pt.m3u8
 https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews PT
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews PT
 #https://youtu.be/XuZAl-ZPEcA
 
-#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/ARTV.png",ARTV
+#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP-Memória.png",RTP Memória
+#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP-Memória.png",RTP Memória
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP-Açores.png",RTP Açores
+#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP-Açores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP-Madeira.png",RTP Madeira
+#EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP-Madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP-África.png",RTP África
+#EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP-África.png",RTP África
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RTP-Internacional.png",RTP Internacional
+#EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP-Internacional.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/IPTV/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/iptv_streams/raw/main/logos/TVI-Internacional.png",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI1IDI6MTg6MSBQTSZoYXNoX3ZhbHVlPWRuK3l4SCtJR1J6RnJqaDRWSFk1L0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjQwOTIzYi1hNzI2LTQ1NDEtYjlmMi0yZDMzMGU3NjhhYzY=/
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/IPTV/raw/main/logos/TVI-Internacional.png",TVI Internacional
-#https://github.com/Corvisier/IPTV/raw/refs/heads/main/M3U/TVI_Internacional.m3u
+#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/iptv_streams/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#https://github.com/Corvisier/iptv_streams/raw/refs/heads/main/M3U/TVI_Internacional.m3u
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVI_África.png",TVI África
+#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVI_África.png",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/vmaistvi.png",V+ TVI
+#EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/vmaistvi.png",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVI-Ficção.png",TVI Ficção
+#EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVI-Ficção.png",TVI Ficção
 https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVI-Reality.png",TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/SIC-Replay.png",SIC Replay
+#EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/SIC-Replay.png",SIC Replay
 #EXTVLCOPT:http-user-agent=IE
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICAltaDefinicao.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/SIC-Alta-Definição.png",SIC Alta Definição
+#EXTINF:-1 group-title="TV" tvg-id="SICAltaDefinicao.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/SIC-Alta-Definição.png",SIC Alta Definição
 #EXTVLCOPT:http-user-agent=IE
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Porto-Canal.png",Porto Canal
+#EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Porto-Canal.png",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Famatv.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Fama-TV.jpg",Fama TV
+#EXTINF:-1 group-title="TV" tvg-id="Famatv.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Fama-TV.jpg",Fama TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CamoesTV.ca" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CamoesTV.png",Camões TV
+#EXTINF:-1 group-title="TV" tvg-id="CamoesTV.ca" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CamoesTV.png",Camões TV
 #https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Darkflix.png",Darkflix
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Darkflix.png",Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Cinemonde.png",Cinemonde
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Cinemonde.png",Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
+#EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MovieSphere.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/MovieSphere.jpg",MovieSphere
+#EXTINF:-1 group-title="TV" tvg-id="MovieSphere.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/MovieSphere.jpg",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RakutenViki.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Rakuten_Viki.png",Rakuten Viki
+#EXTINF:-1 group-title="TV" tvg-id="RakutenViki.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Rakuten_Viki.png",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ShemarooBollywood.us" tvg-logo="https://i.imgur.com/TFxLj80.png",shemaroo Bollywood
@@ -142,115 +142,115 @@ https://lds-realwild-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/PBS_America_logo.png",PBS America
+#EXTINF:-1 group-title="TV" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/PBS_America_logo.png",PBS America
 #https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/BraziTV.png",BraziTV
+#EXTINF:-1 group-title="TV" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BraziTV.png",BraziTV
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TV-camara.png",TV Câmara
+#EXTINF:-1 group-title="TV" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TV-camara.png",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Canal-Futura.png",Canal Futura
+#EXTINF:-1 group-title="TV" tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Canal-Futura.png",Canal Futura
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/AgroBrasil-TV.png",AgroBrasil TV
+#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/AgroBrasil-TV.png",AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
+#EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
+#EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVM.png",TVM
+#EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVM.png",TVM
 http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVMI.png",TVM Internacional
+#EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVMI.png",TVM Internacional
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews EN
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews EN
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews ES
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews ES
 https://www.youtube.com/live/O9mOtdZ-nSk?si=EmVYK4auVB3jDSLM
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews IT
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews IT
 https://www.youtube.com/live/pUcmpyynASM?si=BRmdOh1Fc33_VgsI
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews FR
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews FR
 https://www.youtube.com/live/NiRIbKwAejk?si=kxojjO5JljrbDDzz
 
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/euronews-logo-225x225.png",Euronews DE
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/euronews-logo-225x225.png",Euronews DE
 https://www.youtube.com/live/CQ3KsEbsYHs?si=uWcGC4Yzd0CIuK29
 
-#EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Telesur.png",teleSUR
+#EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Telesur.png",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Telesur.png",teleSUR English
+#EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Telesur.png",teleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="HispanTV.ir" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/HispanTV.png",HispanTV
+#EXTINF:-1 group-title="TV" tvg-id="HispanTV.ir" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/HispanTV.png",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Press-TV.png",Press TV
+#EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Press-TV.png",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FreeSpeechTV.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Free-Speech-TV.webp",Free Speech TV
+#EXTINF:-1 group-title="TV" tvg-id="FreeSpeechTV.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Free-Speech-TV.webp",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/RT-News.png",RT News
+#EXTINF:-1 group-title="TV" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RT-News.png",RT News
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CGTN.png",CGTN
+#EXTINF:-1 group-title="TV" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CGTN.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CGTN-Español.png",CGTN Español
+#EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CGTN-Español.png",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CGTN-Français.png",CGTN Français
+#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CGTN-Français.png",CGTN Français
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CGTN-Documentary.png",CGTN Documentary
+#EXTINF:-1 group-title="TV" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CGTN-Documentary.png",CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Al-Jazeera.png",Al Jazeera English
+#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Al-Jazeera.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/France-24.png",France 24 English
+#EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/France-24.png",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/France-24.png",France 24 Español
+#EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/France-24.png",France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/France-24.png",France 24 Français
+#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/France-24.png",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="France24Arabic.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/France-24.png",France 24 Arabic
+#EXTINF:-1 group-title="TV" tvg-id="France24Arabic.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/France-24.png",France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CNN.png",CNN
+#EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNHeadlines.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CNN-Headlines.png",CNN HeadLines
+#EXTINF:-1 group-title="TV" tvg-id="CNNHeadlines.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Headlines.png",CNN HeadLines
 https://live-media-aka.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/LiveNOW_from_Fox.webp",Fox Now
+#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/LiveNOW_from_Fox.webp",Fox Now
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/ABC-News.png",ABC News
+#EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CBSN.png",CBS News
+#EXTINF:-1 group-title="TV" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CBSN.png",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/NBC-News-Now.png",NBC News Now
+#EXTINF:-1 group-title="TV" tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/NBC-News-Now.png",NBC News Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
@@ -258,79 +258,79 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #EXTINF:-1 group-title="TV" tvg-id="NTD.com" tvg-logo="https://www.ntd.com/images/ENTD180.jpeg",NTD News
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/BBC-World-News.png",BBC News
+#EXTINF:-1 group-title="TV" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BBC-World-News.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Sky-News.png",Sky News
+#EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sky-News.png",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Africa_news.png",Africa News
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Africa_news.png",Africa News
 #https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZjdlNjYzYmUtOTVlNi00MWUxLTg0NjctZjBiNzg2MzZjMjNjIiwibWt0IjoicHQiLCJjaCI6NjU4MywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/5a098a95-cc1e-4e08-8785-65fe2ac4dda3/5.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Africa_news.png",Africa News
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Africa_news.png",Africa News
 #https://www.youtube.com/live/NQjabLGdP5g?si=Hkm7_taSMMuR2HOw
 
-#EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TRT_World.svg",TRT World
+#EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TRT_World.svg",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Bloomberg.png",Bloomberg TV Europe
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Bloomberg.png",Bloomberg TV Europe
 #https://86ebec83.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/664c4e83-13c7-4898-ada9-80b89d4c2d2c/5.m3u8
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Bloomberg.png",Bloomberg TV Brasil
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Bloomberg.png",Bloomberg TV Brasil
 #https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Bloomberg.png",Bloomberg TV
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Bloomberg.png",Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/NHK-World.png",NHK World Japan
+#EXTINF:-1 group-title="TV" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/NHK-World.png",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ArirangTv.kr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Arirang_TV.png",Arirang TV
+#EXTINF:-1 group-title="TV" tvg-id="ArirangTv.kr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Arirang_TV.png",Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/KBS-World.png",KBS World
+#EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/KBS-World.png",KBS World
 #https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://mytv.dothome.co.kr/ch/catv/7.php
 
-#EXTINF:-1 group-title="TV" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Deutsche-Welle.png",Deutsche Welle
+#EXTINF:-1 group-title="TV" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Deutsche-Welle.png",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Deutsche-Welle.png",Deutsche Welle Español
+#EXTINF:-1 group-title="TV" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Deutsche-Welle.png",Deutsche Welle Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DWDeutsch.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
+#EXTINF:-1 group-title="TV" tvg-id="DWDeutsch.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
 #https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
 #https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Deutsche-Welle.png",Deutsche Welle Arabic
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Deutsche-Welle.png",Deutsche Welle Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TV5-Monde-Info.png",TV5 Monde Info
+#EXTINF:-1 group-title="TV" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TV5-Monde-Info.png",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/BFM-TV.png",BFM TV
+#EXTINF:-1 group-title="TV" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BFM-TV.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/BFM-Business.png",BFM Business
+#EXTINF:-1 group-title="TV" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BFM-Business.png",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 group-title="TV" tvg-id="7NN.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/7NN-Noticias.png",7NN Noticias
+#EXTINF:-1 group-title="TV" tvg-id="7NN.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/7NN-Noticias.png",7NN Noticias
 #https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVE-24h.png",TVE 24h
+#EXTINF:-1 group-title="TV" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVE-24h.png",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/La1.png",La 1
+#EXTINF:-1 group-title="TV" tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/La1.png",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/La2.png",La 2
+#EXTINF:-1 group-title="TV" tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/La2.png",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TVG.png",TV Galicia
+#EXTINF:-1 group-title="TV" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVG.png",TV Galicia
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
@@ -348,41 +348,41 @@ http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/ETB-1.png",ETB 1
+#EXTINF:-1 group-title="TV" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ETB-1.png",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/ETB-2.png",ETB 2
+#EXTINF:-1 group-title="TV" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ETB-2.png",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/EITB-EUS.png",EITB Basque
+#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/EITB-EUS.png",EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Canal-Extremadura.png",Canal Extremadura
+#EXTINF:-1 group-title="TV" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Canal-Extremadura.png",Canal Extremadura
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#EXTINF:-1 group-title="TV" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sky24Meteo.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Sky-TG24.png",Sky TG24
+#EXTINF:-1 group-title="TV" tvg-id="Sky24Meteo.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sky-TG24.png",Sky TG24
 https://youtube.com/watch?v=HVB_Wx5T16g
 
-#EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Rai-News-24.png",Rai News 24
+#EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Rai-News-24.png",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RakutenTVFamilyMovies.uk",Rakuten Family
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NickClassico.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Nick-Clássico.jpg",Nick Clássico
+#EXTINF:-1 group-title="TV" tvg-id="NickClassico.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Nick-Clássico.jpg",Nick Clássico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="TV" tvg-id="BabyFirst.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/BabyFirst.png",BabyFirst
+#EXTINF:-1 group-title="TV" tvg-id="BabyFirst.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BabyFirst.png",BabyFirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="TV" tvg-id="RetroCartoon.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Retro-TV.png",Retrô Cartoon
+#EXTINF:-1 group-title="TV" tvg-id="RetroCartoon.br" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Retro-TV.png",Retrô Cartoon
 #https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV
@@ -391,10 +391,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 #EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Locomotion.png",Locomotion
+#EXTINF:-1 group-title="TV" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Locomotion.png",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Gulli.png",Gulli
+#EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Gulli.png",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
@@ -402,131 +402,131 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/On-FM.png",On FM Portugal
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/On-FM.png",On FM Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RadioSines.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Rádio-Sines.png",Rádio Sines
+#EXTINF:-1 group-title="TV" tvg-id="RadioSines.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Rádio-Sines.png",Rádio Sines
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TRACE-Urban.png",Trace Urban
+#EXTINF:-1 group-title="TV" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TRACE-Urban.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Trace_Brasil.png",Trace Brasil
+#EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Trace_Brasil.png",Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/TRACE-Latina.png",Trace Latina
+#EXTINF:-1 group-title="TV" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TRACE-Latina.png",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Clubbing-TV.png",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="1HDMusicTelevision.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/1HD.png",1HD Music
+#EXTINF:-1 group-title="TV" tvg-id="1HDMusicTelevision.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/1HD.png",1HD Music
 #https://sc.id-tv.kz/1hd.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NRG91.gr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/NRG-91-TV.png",NRG 91 TV
+#EXTINF:-1 group-title="TV" tvg-id="NRG91.gr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/NRG-91-TV.png",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/DeeJay-TV.png",DeeJay TV
+#EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/DeeJay-TV.png",DeeJay TV
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/4Fun-TV.png",4Fun.TV
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/4Fun-TV.png",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
+#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/VH1.png",VH1 Italia
+#EXTINF:-1 group-title="TV" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/VH1.png",VH1 Italia
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FMITALIA.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/FM-Italia-TV.png",FM Italia TV
+#EXTINF:-1 group-title="TV" tvg-id="FMITALIA.it" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/FM-Italia-TV.png",FM Italia TV
 https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ColosalTV.cr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Colosal-TV.png",Colosal TV
+#EXTINF:-1 group-title="TV" tvg-id="ColosalTV.cr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Colosal-TV.png",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/CMC.png",California Music Channel
+#EXTINF:-1 group-title="TV" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CMC.png",California Music Channel
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Fuel-TV.png",Fuel TV BR
+#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Fuel-TV.png",Fuel TV BR
 #https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Fuel-TV.png",Fuel TV
+#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Fuel-TV.png",Fuel TV
 #https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Red-Bull-TV.png",Red Bull TV
+#EXTINF:-1 group-title="TV" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Red-Bull-TV.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Motorvision-TV.png",Motorvision
+#EXTINF:-1 group-title="TV" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Motorvision-TV.png",Motorvision
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/152ce4a1-aa15-4761-ae5b-d4f13449c1b9/4.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports1.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
+#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports1.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
+#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports3.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
+#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports3.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
 #https://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports4.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
+#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports4.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
 #https://admdn4.cdn.mangomolo.com/adsports4/adsports4.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Yas-TV.png",Yas TV
+#EXTINF:-1 group-title="TV" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Yas-TV.png",Yas TV
 #https://admdn1.cdn.mangomolo.com/yastv/yastv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-Sports.png",Dubai Sports
+#EXTINF:-1 group-title="TV" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-Sports.png",Dubai Sports
 #https://dmitnthvll.cdn.mangomolo.com/dubaisports/dubaisports.smil/index.m3u8
 https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-Sports-2.png",Dubai Sports 2
+#EXTINF:-1 group-title="TV" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-Sports-2.png",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiSports3.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-Sports-3.png",Dubai Sports 3
+#EXTINF:-1 group-title="TV" tvg-id="DubaiSports3.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-Sports-3.png",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-Racing.png",Dubai Racing
+#EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-Racing.png",Dubai Racing
 #https://dmisvthvll.cdn.mangomolo.com/events/events.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-Racing.png",Dubai Racing 2
+#EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-Racing.png",Dubai Racing 2
 #https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Fashion-TV.png",Fashion TV
+#EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Fashion-TV.png",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="HDFASHIONLifeStyle.ua" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
+#EXTINF:-1 group-title="TV" tvg-id="HDFASHIONLifeStyle.ua" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
 https://www.youtube.com/watch?v=i646uhJwP5w
 
-#EXTINF:-1 group-title="TV" tvg-id="WorldFashionChannel.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
+#EXTINF:-1 group-title="TV" tvg-id="WorldFashionChannel.ru" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiOne.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Dubai-One.png",Dubai One
+#EXTINF:-1 group-title="TV" tvg-id="DubaiOne.ae" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Dubai-One.png",Dubai One
 #https://dminnvll.cdn.mangomolo.com/dubaione/dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ICITele.ca" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/ICI-Television.png",ICI Television
+#EXTINF:-1 group-title="TV" tvg-id="ICITele.ca" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ICI-Television.png",ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Grand-Lille-TV.png",BFM Grand Lille
+#EXTINF:-1 group-title="TV" tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Grand-Lille-TV.png",BFM Grand Lille
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 group-title="TV" tvg-id="BFMGrandLittoral.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Grand-Littoral-TV.png",BFM Grand Littoral TV
+#EXTINF:-1 group-title="TV" tvg-id="BFMGrandLittoral.fr" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Grand-Littoral-TV.png",BFM Grand Littoral TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 group-title="TV" tvg-id="DasErste.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Das-Erste.png",Das Erste
+#EXTINF:-1 group-title="TV" tvg-id="DasErste.de" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Das-Erste.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Akaku-TV-1.png",Akaku TV 1
+#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Akaku-TV-1.png",Akaku TV 1
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Akaku-TV-2.png",Akaku TV 2
+#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Akaku-TV-2.png",Akaku TV 2
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Akaku-TV-3.png",Akaku TV 3
+#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Akaku-TV-3.png",Akaku TV 3
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/canal-kuriakos-tv-logo-256x256.png",Kuriakos TV
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/canal-kuriakos-tv-logo-256x256.png",Kuriakos TV
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
@@ -549,43 +549,43 @@ https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 
 # 📻 Estações de Rádio
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena1.png",Rádio  Antena 1
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena1.png",Rádio  Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena2.png",Rádio  Antena 2
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena2.png",Rádio  Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena3.png",Rádio  Antena 3
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena3.png",Rádio  Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/97-400719141305.png",Antena 1 Açores
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/97-400719141305.png",Antena 1 Açores
 https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/98-590619141305.png",Antena 1 Madeira
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/98-590619141305.png",Antena 1 Madeira
 https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/rdpInternacional.png",Rádio RDP Internacional
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/rdpInternacional.png",Rádio RDP Internacional
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/rdpAfrica.png",Rádio RDP África
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/rdpAfrica.png",Rádio RDP África
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena1vida.png",Antena 1 Vida
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena1vida.png",Antena 1 Vida
 https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena1memoria.png",Antena 1 Memória
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena1memoria.png",Antena 1 Memória
 https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/radiolusitania.png",Rádio Lusitânia
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/radiolusitania.png",Rádio Lusitânia
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena1fado.png",Antena 1 Fado
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena1fado.png",Antena 1 Fado
 https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena2jazzin.png",Antena 2 Jazzin'
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena2jazzin.png",Antena 2 Jazzin'
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/antena2opera.png",Antena 2 Opera
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/antena2opera.png",Antena 2 Opera
 https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
@@ -615,7 +615,7 @@ https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",Rádio Comercial One Hit Wonders
 https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8?
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/IPTV/main/logos/Comercial-Kids.png",Rádio Comercial Kids
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Comercial-Kids.png",Rádio Comercial Kids
 https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-portugal.jpg",Rádio Comercial Portugal
