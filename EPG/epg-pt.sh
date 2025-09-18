@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/runner/work/IPTV/IPTV/iptv-org-epg && npm install
+cd /home/runner/work/iptv_streams/iptv_streams/iptv-org-epg && npm install
 
 # PT EPG
 
