@@ -12,7 +12,7 @@
 #          \______|\__|        \__|       \_/     \______/   \__|   \__|  \__|\________|\__|  \__|\__|     \__| \______/ 
 #                                                                                                                                                                                                                        
 # (●) Total de Canais: 252
-# (●) Lista Actualizada a: 2026-07-02 23:04:39
+# (●) Lista Actualizada a: 2026-07-03 02:51:00
 #
 # 📺 Canais de TV
 
@@ -28,7 +28,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgMTE6NDozNyBQTSZoYXNoX3ZhbHVlPTJGcWEybGI1NldxT0oxR0VIL3F1VlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05YmJlODc0MC0xYTg0LTQ4ZmUtYTFiNy00N2JmZWZlOGM1ZTc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjo1MDo1OCBBTSZoYXNoX3ZhbHVlPWw3aFRoaFNTSDFyOWNXOFNaRjBkY2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02OTY3ZDE0Ni0zZDEzLTQ0ZWMtYWI1OC1lMDZmNDQ2Nzg2NjY=/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
@@ -39,7 +39,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgMTE6NDozOCBQTSZoYXNoX3ZhbHVlPU5UYmJHL2hVSW82a1BPS3RXMnRtdlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMjk3ZmE1NC01YTQ3LTRkM2UtOGEwMi0yZWM0OTdhNGI2NjA=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjo1MDo1OCBBTSZoYXNoX3ZhbHVlPWd1NWlhdi9udTB3VkkweVppNUFUNkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNzA2N2RkZC00MWI3LTQ3YzgtOWM0Ni0zZjZmMjEwNDJlYmY=/
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CNN-Portugal.png",CNN Portugal
 #https://github.com/Corvisier/iptv_streams/raw/refs/heads/main/M3U/CNN_Portugal.m3u
@@ -79,7 +79,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/iptv_streams/raw/main/logos/TVI-Internacional.png",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgMTE6NDozOCBQTSZoYXNoX3ZhbHVlPW9pQ1Z6ZkZOMFB1c2hYM3d2OXNNZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZGE3MGY0Ny1hYjQ1LTQxOGItODE5YS0zYTVmMjBhODczMmU=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjo1MDo1OSBBTSZoYXNoX3ZhbHVlPUpZcENKRWwyTEhDWE1OQ2YvaFpyTGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMDI5OTU4ZS05NGVmLTRiM2QtOTczZS00ZDI3MzdlZDEwZjk=/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/Corvisier/iptv_streams/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #https://github.com/Corvisier/iptv_streams/raw/refs/heads/main/M3U/TVI_Internacional.m3u
