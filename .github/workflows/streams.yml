@@ -1,7 +1,7 @@
 name: Actualização de Streams
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   Update-streams:
@@ -9,10 +9,10 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: update streams
-        run: cd M3U && sh streams.sh
+        run: cd M3U && bash streams.sh
 
       - name: update total channels
         run: |
@@ -26,11 +26,11 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "📺 "
-          git config user.email "<>"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: commit
         run: |
-          git pull
+          git pull origin main
           cd M3U && git add *.m3u
           git commit -m "Actualização de Streams"
           git push origin main

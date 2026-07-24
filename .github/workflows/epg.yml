@@ -1,7 +1,7 @@
 name: Actualização do EPG
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   Update-EPG:
@@ -9,25 +9,25 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         
       - name: checkout iptv-org/epg repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
          repository: iptv-org/epg
          path: iptv-org-epg
 
       - name: update EPG
-        run: cd EPG && sh epg-pt.sh
+        run: cd EPG && bash epg-pt.sh
 
       - name: setup git config
         run: |
           git config user.name "📅 "
-          git config user.email "<>"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: commit
         run: |
-          git pull
+          git pull origin main
           cd EPG && git add .
           git commit -m "Actualização do EPG"
           git push origin main
