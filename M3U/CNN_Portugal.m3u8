@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2179795,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA4OjIzOjUzIEFNJmhhc2hfdmFsdWU9dUZGRTdiUWJlbERjaUxBd2pneXJwdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdkMTBkNWIyLTEwNTctNGY5MC1hOGE5LWI1OTQ1ZGU4N2QzNQ==
+https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAzOjM6MjggUE0maGFzaF92YWx1ZT1xbzNPZmlzRGNYWDY4VWNna3RTMGhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGZkN2ZlY2ItNjNlYi00MTkwLWFhNmMtYjJhZjFiM2UyMGVl
